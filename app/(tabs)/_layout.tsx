@@ -4,6 +4,8 @@ import { Tabs } from "expo-router";
 import { FontAwesome, Ionicons, MaterialIcons } from "@expo/vector-icons";
 import Colors from "@/constants/Colors";
 
+
+
 export default function Layout() {
   return (
     <Tabs
