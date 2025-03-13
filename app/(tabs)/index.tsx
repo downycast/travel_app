@@ -64,7 +64,7 @@ const Page = () => {
       />
       <View style={[styles.container, { paddingTop: headerHeight }]}>
         <ScrollView showsVerticalScrollIndicator={false}>
-          <Text style={styles.headingTxt}>Үзэсгэлэнт ертөнцтэй танилцаарай!</Text>
+          <Text style={styles.headingTxt}>Explore beautyful world</Text>
 
           <View style={styles.searchSectionWrapper}>
             <View style={styles.searchBar}>
